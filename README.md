@@ -9,4 +9,4 @@
 
 A imagem a baixo mostra como é o processo de background Substractor
 
-!IMG(https://drive.google.com/drive/folders/15ryiTANoOp3rL-OHXcGoyh2a67yTTkmn?usp=sharing](https://drive.google.com/file/d/1K6yFVWecqenOxNTB7hulNLdm2MvyXW8x/view?usp=sharing)
+!IMG (https://drive.google.com/file/d/1K6yFVWecqenOxNTB7hulNLdm2MvyXW8x/view?usp=sharing)
