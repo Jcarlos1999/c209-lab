@@ -1,4 +1,4 @@
-# Background Substraction
+# **Background Substraction**
 
 ## Como usar:
   ### Precisará instalar o Open CV para python
