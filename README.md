@@ -9,7 +9,7 @@
 
 A imagem a baixo mostra como é o processo de background Substractor
 
-[IMG](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.opencv.org%2F4.x%2Fd1%2Fdc5%2Ftutorial_background_subtraction.html&psig=AOvVaw2fxHwsIe1KqELADeZUVsl8&ust=1670282059377000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjMw9iL4fsCFQAAAAAdAAAAABAE)
+[IMG](https://drive.google.com/file/d/1K6yFVWecqenOxNTB7hulNLdm2MvyXW8x/view?usp=sharing)
 
 Na imagem temos duas fotos, uma do frame **atual(currentFrame)** e uma do modelo de **background(background model)**.Fazendo uma subtração pixel a pixel da imagem e depois verificando se o resultado é maior que um 
 **limiar(threshold)** aquele pixel é setado com branco, caso não for é setado como preto, assim formando uma imagem binaria e nos gerando uma foreground mask.
