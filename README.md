@@ -20,3 +20,6 @@ A partir dessa foreground mask é possivel identificar movimentos a partir da co
 
 Acima vemos a diferença entre diferente valroes de threshold, quanto maior menor será a quantidade de pixels detectados(pixels brancos), então é sempre bom achar um meio termo, mas sempre irá depender dos frames no qual está avaliando.
 
+
+
+### João Carlos Rodrigues Franco
