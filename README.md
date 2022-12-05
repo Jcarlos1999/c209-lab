@@ -1,11 +1,13 @@
 # **Background Substraction**
-
-  ## Precisará instalar o Open CV para python
   
-  *  `pip install opencv-python`
+  ## O que é preciso para utilizar esse código
+  
+  *  instalar o OpenCV `pip install opencv-python`
   *  Precisará de algum video, no repositorio ja existe um, caso queira usa-lo
   *  Depois de concluir é só dar o comando `python .\backgroundSubtraction.py`
-
+  
+  ## O que é background Substraction
+   São tecnicas de computação gráfica que permite detectar a(s) diferença(s) entre duas imagens ou em uma sequencia de imagens, muito usada para fazer dectação de movimento.
 
 A imagem a baixo mostra como é o processo de background Substractor
 
@@ -20,6 +22,13 @@ A partir dessa foreground mask é possivel identificar movimentos a partir da co
 
 Acima vemos a diferença entre diferente valroes de threshold, quanto maior menor será a quantidade de pixels detectados(pixels brancos), então é sempre bom achar um meio termo, mas sempre irá depender dos frames no qual está avaliando.
 
+### Links
+
+Nesse código usei a biblioteca do OpenCV que já trás uma abstração grande dos algoritmos para fazer as detecções, mas vou deixar dois links que explicam sobre os algoritmo
+
+  * [KNN](https://www.analyticsvidhya.com/blog/2021/04/simple-understanding-and-implementation-of-knn-algorithm/)
+  * [MOG](https://www.sciencedirect.com/topics/engineering/background-subtraction)
+  * [What is background substraction](https://www.youtube.com/watch?v=fn07iwCrvqQ)
 
 
 ### João Carlos Rodrigues Franco
