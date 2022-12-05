@@ -2,7 +2,6 @@
 import cv2
 
 video = cv2.VideoCapture('video.mp4')
-# kernel = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (3,3))
 mog = cv2.createBackgroundSubtractorMOG2(history=30, varThreshold=100, detectShadows=False)
 knn = cv2.createBackgroundSubtractorKNN(history=50, detectShadows=False)
 
