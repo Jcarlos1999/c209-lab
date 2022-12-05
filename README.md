@@ -8,6 +8,10 @@
   
   ## O que é background Substraction
    São tecnicas de computação gráfica que permite detectar a(s) diferença(s) entre duas imagens ou em uma sequencia de imagens, muito usada para fazer dectação de movimento.
+   
+Essa é a equação do background substraction
+
+![equation](https://user-images.githubusercontent.com/52891219/205524459-063093c3-3baa-4337-b941-a4003bf8814d.png)
 
 A imagem a baixo mostra como é o processo de background Substractor
 
